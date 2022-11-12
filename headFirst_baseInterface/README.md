@@ -9,3 +9,9 @@
 
 ![1668240735776](https://github.com/Vilinz/headFirstPro/blob/main/headFirst_baseInterface/pictures/2.png)
 
+
+
+具有动态行为的鸭
+
+![1668240735776](https://github.com/Vilinz/headFirstPro/blob/main/headFirst_baseInterface/pictures/3.png)
+
