@@ -3,8 +3,8 @@
 
 
 
-![1668240700354](C:\Users\pengw\AppData\Roaming\Typora\typora-user-images\1668240700354.png)
+![1668240700354](https://github.com/Vilinz/headFirstPro/tree/main/headFirst_baseInterface\pictures\1.png)
 
 
 
-![1668240735776](C:\Users\pengw\AppData\Roaming\Typora\typora-user-images\1668240735776.png)
+![1668240735776](https://github.com/Vilinz/headFirstPro/tree/main/headFirst_baseInterface\pictures\2.png)
