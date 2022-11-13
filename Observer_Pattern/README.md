@@ -6,3 +6,5 @@
 
 ![1668240700354](https://github.com/Vilinz/headFirstPro/blob/main/Observer_Pattern/pictures/3.png)
 
+![1668240700354](https://github.com/Vilinz/headFirstPro/blob/main/Observer_Pattern/pictures/4.png)
+
