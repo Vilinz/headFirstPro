@@ -20,6 +20,16 @@ public:
 		quackBehavior->DuckQuack();
 	}
 
+	void SetFlyBehavior(shared_ptr<FlyBehavior> ptr)
+	{
+		flyBehavior = ptr;
+	}
+
+	void SetQuackBehavior(shared_ptr<QuackBehavior> ptr)
+	{
+		quackBehavior = ptr;
+	}
+
 	void Swim()
 	{
 		cout << "All ducks float, even decoys" << endl;
