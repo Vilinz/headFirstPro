@@ -3,8 +3,8 @@
 
 int main()
 {
-	std::shared_ptr<PizzaStore> store(new NYPizzaStore());
-	std::shared_ptr<PizzaStore> store1(new ChicagoPizzaStore());
+	std::shared_ptr<PizzaStore> store = std::make_shared<NYPizzaStore>();
+	std::shared_ptr<PizzaStore> store1 = std::make_shared<ChicagoPizzaStore>();;
 
 	std::shared_ptr<Pizza> p1 = store->OrderPizza("Cheese");
 	if (p1)

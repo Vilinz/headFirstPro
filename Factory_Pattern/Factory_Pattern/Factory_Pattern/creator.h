@@ -31,7 +31,7 @@ protected:
 	std::shared_ptr<Pizza> CreatePizza(std::string type) override
 	{
 		if (type == "Cheese") {
-			return std::shared_ptr<Pizza>(new NYStyleCheesePizza());
+			return std::make_shared<NYStyleCheesePizza>();
 		} else { // add kind here
 			return nullptr;
 		}
@@ -46,9 +46,8 @@ protected:
 	std::shared_ptr<Pizza> CreatePizza(std::string type) override
 	{
 		if (type == "Cheese") {
-			return std::shared_ptr<Pizza>(new ChicagoStyleCheesePizza());
-		}
-		else { // add kind here
+			return std::make_shared<ChicagoStyleCheesePizza>();
+		} else { // add kind here
 			return nullptr;
 		}
 	}
